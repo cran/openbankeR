@@ -1,0 +1,17 @@
+d953d8b12daea5ae6690891dc490e623 *DESCRIPTION
+19b8297f0775de0f5f2aae27e2befdbb *NAMESPACE
+659be3c5671b3b832a393967a7f02c4b *NEWS.md
+bf32df6846c7808c717bce00ad37a457 *R/CreateOpenBankingClient.R
+8adff8d460deb4cad4ede62d795eb478 *R/openbankeR.R
+aa0e4152add8c970822b5c81e4ae17d1 *README.md
+6a964fd75a21352a569661dd4d8e1db8 *build/vignette.rds
+e2e388cba9d6a0921acf7f5a529b29cf *inst/doc/using_openbankeR.R
+f5a532d7364e5fb0f2827853ed9b8251 *inst/doc/using_openbankeR.Rmd
+d70655313d9a4676ba6a7ab8440b94c5 *inst/doc/using_openbankeR.html
+09829d4816be1917ebe604ade6ae7ade *man/CreateOpenBankingClient.Rd
+67f477cc9f1226b8ab246e7a1bac9bdd *man/dot-openBankingClient.Rd
+4d90c0a5c9eae24937305ad01d844ae6 *man/figures/raw-data-screenshot.PNG
+10db56d059ba367eb78effad1f9cfc86 *man/openbankeR.Rd
+ed066bae39a8351faeb66c152d028019 *tests/testthat.R
+25ca003d7e2580faa89e44a944b8c61f *tests/testthat/test-LintRules.R
+f5a532d7364e5fb0f2827853ed9b8251 *vignettes/using_openbankeR.Rmd
